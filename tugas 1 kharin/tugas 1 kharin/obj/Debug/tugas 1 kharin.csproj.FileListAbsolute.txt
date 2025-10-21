@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\bin\Debug\tugas 1 kharin.exe.config
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\bin\Debug\tugas 1 kharin.exe
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\bin\Debug\tugas 1 kharin.pdb
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\obj\Debug\tugas 1 kharin.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\obj\Debug\tugas 1 kharin.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\obj\Debug\tugas 1 kharin.exe
+C:\KHARINDINA SAFARA\tugas 1 kharin\tugas 1 kharin\obj\Debug\tugas 1 kharin.pdb
