@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\bin\Debug\praktik 7.1 fungsi.exe.config
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\bin\Debug\praktik 7.1 fungsi.exe
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\bin\Debug\praktik 7.1 fungsi.pdb
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\obj\Debug\praktik 7.1 fungsi.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\obj\Debug\praktik 7.1 fungsi.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\obj\Debug\praktik 7.1 fungsi.exe
+C:\KHARINDINA SAFARA\praktik 7.1 fungsi\praktik 7.1 fungsi\obj\Debug\praktik 7.1 fungsi.pdb
