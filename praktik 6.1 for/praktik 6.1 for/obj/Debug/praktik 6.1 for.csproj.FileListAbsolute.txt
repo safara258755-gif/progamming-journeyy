@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\bin\Debug\praktik 6.1 for.exe.config
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\bin\Debug\praktik 6.1 for.exe
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\bin\Debug\praktik 6.1 for.pdb
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\obj\Debug\praktik 6.1 for.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\obj\Debug\praktik 6.1 for.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\obj\Debug\praktik 6.1 for.exe
+C:\KHARINDINA SAFARA\praktik 6.1 for\praktik 6.1 for\obj\Debug\praktik 6.1 for.pdb
