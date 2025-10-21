@@ -1,0 +1,8 @@
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.exe.config
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.exe
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\bin\Debug\praktik 7.3.pdb
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.exe
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.pdb
+C:\KHARINDINA SAFARA\praktik 7.3\praktik 7.3\obj\Debug\praktik 7.3.exe.config
