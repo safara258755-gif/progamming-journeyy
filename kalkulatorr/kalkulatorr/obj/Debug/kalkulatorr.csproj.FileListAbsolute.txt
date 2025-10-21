@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.exe.config
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.exe
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\bin\Debug\kalkulatorr.pdb
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.exe
+C:\KHARINDINA SAFARA\kalkulatorr\kalkulatorr\obj\Debug\kalkulatorr.pdb
