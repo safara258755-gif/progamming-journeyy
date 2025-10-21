@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\bin\Debug\tugas fungsi konversi suhu.exe.config
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\bin\Debug\tugas fungsi konversi suhu.exe
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\bin\Debug\tugas fungsi konversi suhu.pdb
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\obj\Debug\tugas fungsi konversi suhu.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\obj\Debug\tugas fungsi konversi suhu.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\obj\Debug\tugas fungsi konversi suhu.exe
+C:\KHARINDINA SAFARA\tugas fungsi konversi suhu\tugas fungsi konversi suhu\obj\Debug\tugas fungsi konversi suhu.pdb
