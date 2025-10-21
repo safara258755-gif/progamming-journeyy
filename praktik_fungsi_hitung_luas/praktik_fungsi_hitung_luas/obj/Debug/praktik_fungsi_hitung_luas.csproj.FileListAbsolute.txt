@@ -1,0 +1,8 @@
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\bin\Debug\praktik_fungsi_hitung_luas.exe.config
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\bin\Debug\praktik_fungsi_hitung_luas.exe
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\bin\Debug\praktik_fungsi_hitung_luas.pdb
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\obj\Debug\praktik_fungsi_hitung_luas.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\obj\Debug\praktik_fungsi_hitung_luas.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\obj\Debug\praktik_fungsi_hitung_luas.exe
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\obj\Debug\praktik_fungsi_hitung_luas.pdb
+C:\KHARINDINA SAFARA\praktik_fungsi_hitung_luas\praktik_fungsi_hitung_luas\obj\Debug\praktik_fungsi_hitung_luas.exe.config
