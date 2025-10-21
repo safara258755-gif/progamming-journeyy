@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\bin\Debug\tugas fungsi ratarata.exe.config
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\bin\Debug\tugas fungsi ratarata.exe
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\bin\Debug\tugas fungsi ratarata.pdb
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\obj\Debug\tugas fungsi ratarata.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\obj\Debug\tugas fungsi ratarata.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\obj\Debug\tugas fungsi ratarata.exe
+C:\KHARINDINA SAFARA\tugas fungsi ratarata\tugas fungsi ratarata\obj\Debug\tugas fungsi ratarata.pdb
