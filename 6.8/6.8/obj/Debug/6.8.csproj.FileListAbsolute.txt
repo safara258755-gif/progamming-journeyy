@@ -1,0 +1,7 @@
+C:\KHARINDINA SAFARA\6.8\6.8\obj\Debug\6.8.csproj.AssemblyReference.cache
+C:\KHARINDINA SAFARA\6.8\6.8\obj\Debug\6.8.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\6.8\6.8\bin\Debug\6.8.exe.config
+C:\KHARINDINA SAFARA\6.8\6.8\bin\Debug\6.8.exe
+C:\KHARINDINA SAFARA\6.8\6.8\bin\Debug\6.8.pdb
+C:\KHARINDINA SAFARA\6.8\6.8\obj\Debug\6.8.exe
+C:\KHARINDINA SAFARA\6.8\6.8\obj\Debug\6.8.pdb
