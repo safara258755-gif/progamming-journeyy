@@ -1,0 +1,35 @@
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.exe
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.deps.json
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.runtimeconfig.json
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.pdb
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan_proyek_kharin.Form1.resources
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.csproj.GenerateResource.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.GeneratedMSBuildEditorConfig.editorconfig
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.AssemblyInfoInputs.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.AssemblyInfo.cs
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\refint\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.pdb
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.genruntimeconfig.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin\latihan proyek kharin\obj\Debug\net8.0-windows\ref\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.exe
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.deps.json
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.runtimeconfig.json
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\bin\Debug\net8.0-windows\latihan proyek kharin.pdb
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan_proyek_kharin.Form1.resources
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan_proyek_kharin.FormMenu.resources
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.csproj.GenerateResource.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.GeneratedMSBuildEditorConfig.editorconfig
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.AssemblyInfoInputs.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.AssemblyInfo.cs
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.csproj.CoreCompileInputs.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\refint\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.pdb
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan proyek kharin.genruntimeconfig.cache
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\ref\latihan proyek kharin.dll
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan_proyek_kharin.Properties.Resources.resources
+C:\KHARINDINA SAFARA\latihan proyek kharin - Copy\latihan proyek kharin\obj\Debug\net8.0-windows\latihan_proyek_kharin.FormRiwayat.resources
